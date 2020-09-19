@@ -5,6 +5,7 @@ A repository to track my progress of learning the Tensorflow Developer Certifica
 ### 1. Build and train neural network models using TensorFlow 2.x
 You need to understand the foundational principles of machine learning (ML) and deep learning (DL)
 using TensorFlow 2.x. You need to know how to:
+
   ❏ Use TensorFlow 2.x.
   
   ❏ Build, compile and train machine learning (ML) models using TensorFlow.
