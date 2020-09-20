@@ -14,31 +14,31 @@ using TensorFlow 2.x. You need to know how to:
   
 - [ ] Use models to predict results.
   
-- [ ] Build sequential models with multiple layers.
+:heavy_check_mark: Build sequential models with multiple layers.
   
 - [ ] Build and train models for binary classification.
   
 - [ ] Build and train models for multi-class categorization.
   
-- [ ] Plot loss and accuracy of a trained model.
+:heavy_check_mark: Plot loss and accuracy of a trained model.
   
-- [ ] Identify strategies to prevent overfitting, including augmentation and dropout.
+:heavy_check_mark: Identify strategies to prevent overfitting, including augmentation and dropout.
   
 - [ ] Use pretrained models (transfer learning).
   
 - [ ] Extract features from pre-trained models.
   
-- [ ] Ensure that inputs to a model are in the correct shape.
+:heavy_check_mark: Ensure that inputs to a model are in the correct shape.
   
 - [ ] Ensure that you can match test data to the input shape of a neural network.
   
 - [ ] Ensure you can match output data of a neural network to specified input shape for test data.
   
-- [ ] Understand batch loading of data.
+:heavy_check_mark: Understand batch loading of data.
   
 - [ ] Use callbacks to trigger the end of training cycles.
   
-- [ ] Use datasets from different sources.
+:heavy_check_mark: Use datasets from different sources.
   
 - [ ] Use datasets in different formats, including json and csv.
   
