@@ -58,9 +58,9 @@ using TensorFlow 2.x. You need to know how to:
   
 - [ ] Use image augmentation to prevent overfitting.
   
-- [x] Use ImageDataGenerator.
+- :heavy_check_mark: Use ImageDataGenerator.
   
-- [x] Understand how ImageDataGenerator labels images based on the directory structure.
+- :heavy_check_mark: Understand how ImageDataGenerator labels images based on the directory structure.
   
 ### 3. Natural language processing (NLP)
 
