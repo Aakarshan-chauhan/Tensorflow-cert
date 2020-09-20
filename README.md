@@ -54,13 +54,13 @@ using TensorFlow 2.x. You need to know how to:
   
 - [ ] Understand how to use convolutions to improve your neural network.
   
-- [ ] Use real-world images in different shapes and sizes..
+- [x] Use real-world images in different shapes and sizes..
   
 - [ ] Use image augmentation to prevent overfitting.
   
-- [ ] Use ImageDataGenerator.
+- [x] Use ImageDataGenerator.
   
-- [ ] Understand how ImageDataGenerator labels images based on the directory structure.
+- [x] Understand how ImageDataGenerator labels images based on the directory structure.
   
 ### 3. Natural language processing (NLP)
 
