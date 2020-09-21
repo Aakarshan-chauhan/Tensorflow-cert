@@ -69,7 +69,7 @@ using TensorFlow. You need to know how to:
 
 - [ ] Build natural language processing systems using TensorFlow.
   
-- [ ] Prepare text to use in TensorFlow models.
+:heavy_check_mark: Prepare text to use in TensorFlow models.
   
 - [ ] Build models that identify the category of a piece of text using binary categorization
   
