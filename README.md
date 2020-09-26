@@ -8,15 +8,15 @@ using TensorFlow 2.x. You need to know how to:
 
 - [ ] Use TensorFlow 2.x.
   
-- [ ] Build, compile and train machine learning (ML) models using TensorFlow.
+:heavy_check_mark: Build, compile and train machine learning (ML) models using TensorFlow.
   
-- [ ] Preprocess data to get it ready for use in a model.
+:heavy_check_mark: Preprocess data to get it ready for use in a model.
   
-- [ ] Use models to predict results.
+:heavy_check_mark: Use models to predict results.
   
 :heavy_check_mark: Build sequential models with multiple layers.
   
-- [ ] Build and train models for binary classification.
+:heavy_check_mark: Build and train models for binary classification.
   
 - [ ] Build and train models for multi-class categorization.
   
@@ -30,9 +30,9 @@ using TensorFlow 2.x. You need to know how to:
   
 :heavy_check_mark: Ensure that inputs to a model are in the correct shape.
   
-- [ ] Ensure that you can match test data to the input shape of a neural network.
+:heavy_check_mark: Ensure that you can match test data to the input shape of a neural network.
   
-- [ ] Ensure you can match output data of a neural network to specified input shape for test data.
+:heavy_check_mark: Ensure you can match output data of a neural network to specified input shape for test data.
   
 :heavy_check_mark: Understand batch loading of data.
   
@@ -40,7 +40,7 @@ using TensorFlow 2.x. You need to know how to:
   
 :heavy_check_mark: Use datasets from different sources.
   
-- [ ] Use datasets in different formats, including json and csv.
+:heavy_check_mark: Use datasets in different formats, including json and csv.
   
 - [ ] Use datasets from tf.data.datasets.
   
@@ -67,21 +67,21 @@ using TensorFlow 2.x. You need to know how to:
 You need to understand how to use neural networks to solve natural language processing problems
 using TensorFlow. You need to know how to:
 
-- [ ] Build natural language processing systems using TensorFlow.
+:heavy_check_mark: Build natural language processing systems using TensorFlow.
   
 :heavy_check_mark: Prepare text to use in TensorFlow models.
   
-- [ ] Build models that identify the category of a piece of text using binary categorization
+:heavy_check_mark: Build models that identify the category of a piece of text using binary categorization
   
 - [ ] Build models that identify the category of a piece of text using multi-class categorization
   
-- [ ] Use word embeddings in your TensorFlow model.
+:heavy_check_mark: Use word embeddings in your TensorFlow model.
   
-- [ ] Use LSTMs in your model to classify text for either binary or multi-class categorization.
+:heavy_check_mark: Use LSTMs in your model to classify text for either binary or multi-class categorization.
   
-- [ ] Add RNN and GRU layers to your model.
+:heavy_check_mark: Add RNN and GRU layers to your model.
   
-- [ ] Use RNNS, LSTMs, GRUs and CNNs in models that work with text.
+:heavy_check_mark: Use RNNS, LSTMs, GRUs and CNNs in models that work with text.
   
 - [ ] Train LSTMs on existing text to generate text (such as songs and poetry)
   
